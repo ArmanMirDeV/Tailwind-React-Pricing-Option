@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "title": "Basic Plan",
+    "price": "$29/month",
+    "description": "Perfect for beginners who want to stay active.",
+    "features": [
+      "Access to gym equipment",
+      "1 personal training session per month",
+      "Locker facility",
+      "Free water refill",
+      "Basic fitness assessment",
+      "Access during regular hours"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Standard Plan",
+    "price": "$49/month",
+    "description": "Great for fitness enthusiasts who need consistency.",
+    "features": [
+      "Unlimited access to gym equipment",
+      "4 personal training sessions per month",
+      "Group fitness classes (Yoga, Zumba, HIIT)",
+      "Sauna & steam room access",
+      "Free nutrition consultation",
+      "Monthly progress tracking",
+      "Extended gym hours access"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Premium Plan",
+    "price": "$79/month",
+    "description": "For serious athletes who want top-level facilities.",
+    "features": [
+      "24/7 unlimited gym access",
+      "Unlimited personal training sessions",
+      "Priority booking for group classes",
+      "Diet & workout plans tailored monthly",
+      "Massage & recovery zone access",
+      "Free gym merchandise",
+      "Free parking",
+      "Dedicated progress coach"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Student Plan",
+    "price": "$25/month",
+    "description": "Affordable fitness plan designed for students.",
+    "features": [
+      "Access to gym equipment during off-peak hours",
+      "2 personal training sessions per month",
+      "Study-friendly lounge area",
+      "Discounted healthy meal plans",
+      "Student-only fitness events",
+      "Free Wi-Fi access"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Family Plan",
+    "price": "$99/month",
+    "description": "Ideal for families who want to stay fit together.",
+    "features": [
+      "Access for up to 4 family members",
+      "Shared locker facility",
+      "Group fitness classes included",
+      "Special kids’ training programs",
+      "Weekend family workout sessions",
+      "Discounts on family nutrition packages"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Elite Plan",
+    "price": "$129/month",
+    "description": "The ultimate package with exclusive perks.",
+    "features": [
+      "24/7 VIP gym access",
+      "Dedicated personal trainer",
+      "Customized diet + supplement guide",
+      "Private recovery & spa facilities",
+      "Priority access to all events",
+      "Exclusive fitness workshops",
+      "One free guest pass per month",
+      "Annual body composition scan"
+    ]
+  }
+]
