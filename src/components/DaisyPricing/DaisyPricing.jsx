@@ -2,7 +2,7 @@ import React from 'react';
 
 const DaisyPricing = ({ pricing }) => {
 
-    const { title, price, description, features, popular } = pricing;
+    const { title, price,  features, popular } = pricing;
     return (
         <div className="card w-96 bg-base-100 shadow-sm">
             <div className="card-body">
