@@ -47,6 +47,7 @@
   {
     "id": 4,
     "title": "Student Plan",
+    "popular":true,
     "price": "$25/month",
     "description": "Affordable fitness plan designed for students.",
     "features": [
